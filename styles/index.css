@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(18, 25, 38);
+}
+#hamburger {
+  color: rgb(125, 128, 136);
+}
+ul {
+  background-color: rgb(18, 25, 38);
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  display: inline;
+}
